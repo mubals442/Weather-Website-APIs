@@ -1,11 +1,11 @@
 [
-  { "id": 0, "city": "London", "degree": 28, "img": "src/assets/sunny.svg" },
+  { "id": 0, "city": "London", "degree": 28, "img": "/assets/sunny.svg" },
   {
     "id": 1,
     "city": "New York",
     "degree": 54,
-    "img": "src/assets/fullSunny.svg"
+    "img": "/assets/fullSunny.svg"
   },
-  { "id": 2, "city": "Tokyo", "degree": 12, "img": "src/assets/sunAndRainy.svg" },
-  { "id": 3, "city": "Makkah", "degree": 44, "img": "src/assets/fullSunny.svg" }
+  { "id": 2, "city": "Tokyo", "degree": 12, "img": "/assets/sunAndRainy.svg" },
+  { "id": 3, "city": "Makkah", "degree": 44, "img": "/assets/fullSunny.svg" }
 ]

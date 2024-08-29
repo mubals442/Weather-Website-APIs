@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import backgroundWeather from "./assets/backgroundWeather.svg"
+import backgroundWeather from "/assets/backgroundWeather.svg"
 import CradsWeather from './Components/CradsWeather'
 
 function App() {

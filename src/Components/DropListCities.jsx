@@ -11,7 +11,7 @@ function DropListCities(props) {
 
   return (
     <div className="flex w-full">
-      <img src={"src/assets/location.svg"} alt="" className="pr-2" />
+      <img src={"/assets/location.svg"} alt="" className="pr-2" />
       <select name="" id="" className="bg-inherit text-black" onChange={change}>
         {dropList.map((element, index) => {
           return (
