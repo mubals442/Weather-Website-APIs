@@ -2,6 +2,7 @@ import React, { useState } from "react";
 
 function DropListCities(props) {
   const [dropList, setDropList] = useState([...props.listOfCities]);
+  const [update, setUpdate] = useState(false);
 
   const change = (e) => {
     props.setValueOfCities(e.target.value);
